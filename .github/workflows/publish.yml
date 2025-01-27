@@ -11,11 +11,8 @@ jobs:
         registry: ghcr.io
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
-        
     - name: Build the pg-biznes Docker image
-      run: |
-            docker build . --tag ghcr.io/krecik541/pg-biznes:latest
+      run: | docker build . --tag ghcr.io/krecik541/pg-biznes:latest
 
     - name: Push the pg-biznes Docker image
-      run: |  
-            docker push ghcr.io/krecik541/pg-biznes:latest
+      run: | docker push ghcr.io/krecik541/pg-biznes:latest
