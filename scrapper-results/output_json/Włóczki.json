@@ -1,0 +1,17 @@
+{
+    "name": "Włóczki",
+    "subcategories": [
+        {
+            "name": "Producent"
+        },
+        {
+            "name": "Skład"
+        },
+        {
+            "name": "Grubość"
+        },
+        {
+            "name": "Rodzaj"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Akcesoria",
+    "subcategories": [
+        {
+            "name": "Druty na żyłce"
+        },
+        {
+            "name": "Druty skarpetkowe"
+        },
+        {
+            "name": "Szydełka"
+        },
+        {
+            "name": "Druty do warkoczy"
+        },
+        {
+            "name": "Agrafki dziewiarskie"
+        },
+        {
+            "name": "Igły dziewiarskie"
+        },
+        {
+            "name": "Centymetry"
+        },
+        {
+            "name": "Miarki dziewiarskie"
+        },
+        {
+            "name": "Nożyczki do haftu"
+        },
+        {
+            "name": "Stopery na druty"
+        },
+        {
+            "name": "Znaczniki oczek"
+        },
+        {
+            "name": "Pranie, blokowanie i pielęgnacja dzianin"
+        },
+        {
+            "name": "Przyrządy do pomponów"
+        },
+        {
+            "name": "Torby projektowe, etui na druty i akcesoria"
+        },
+        {
+            "name": "Pozostałe"
+        },
+        {
+            "name": "Zestawy akcesoriów"
+        }
+    ]
+}

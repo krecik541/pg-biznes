@@ -1,0 +1,23 @@
+{
+    "name": "Menu",
+    "subcategories": [
+        {
+            "name": "Włóczki"
+        },
+        {
+            "name": "Akcesoria"
+        },
+        {
+            "name": "Haft"
+        },
+        {
+            "name": "Wzory"
+        },
+        {
+            "name": "Guziki"
+        },
+        {
+            "name": "OUTLET"
+        }
+    ]
+}

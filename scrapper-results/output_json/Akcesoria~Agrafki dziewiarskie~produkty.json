@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Seeknit agrafki dziewiarskie",
+        "images": [
+            "Seeknit agrafki dziewiarskie_1.webp",
+            "Seeknit agrafki dziewiarskie_2.webp"
+        ],
+        "price": "18,90 zł",
+        "manufacturer": null,
+        "description": [
+            "Te długie agrafki japońskiej marki Seeknit przydadzą Ci się np. do odkładania oczek podczas dziergania. Wykonane są z wytrzymałej stali nierdzewnej i mają plastikową blokadę bezpieczeństwa.",
+            "Zestaw zawiera 2 agrafki o długości 13.5cm"
+        ]
+    },
+    {
+        "name": "CLOVER Agrafki dziewiarskie NIEBIESKIE",
+        "images": [
+            "CLOVER Agrafki dziewiarskie NIEBIESKIE_1.webp"
+        ],
+        "price": "19,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Niebieskie agrafki do nabierania oczek CLOVER. Sposób użycia: należy ściągnąć elastyczną końcówkę, przełożyć oczka na agrafkę i ponownie zapiąć końcówkę.",
+            "Zestaw zawiera 2 agrafki o długości 10cm i rozmiarze 2.75mm - 4.50mm"
+        ]
+    },
+    {
+        "name": "CLOVER Agrafki dziewiarskie POMARAŃCZOWE",
+        "images": [
+            "CLOVER Agrafki dziewiarskie POMARAŃCZOWE_1.webp"
+        ],
+        "price": "19,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Niebieskie agrafki do nabierania oczek CLOVER. Sposób użycia: należy  ściągnąć elastyczną końcówkę, przełożyć oczka na agrafkę i ponownie  zapiąć końcówkę.",
+            "Zestaw zawiera 2 agrafki o długości 13cm i rozmiarze 3.75mm - 8.00mm"
+        ]
+    },
+    {
+        "name": "CLOVER Agrafki dziewiarskie ZIELONE",
+        "images": [
+            "CLOVER Agrafki dziewiarskie ZIELONE_1.webp"
+        ],
+        "price": "19,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Niebieskie agrafki do nabierania oczek CLOVER. Sposób użycia: należy  ściągnąć elastyczną końcówkę, przełożyć oczka na agrafkę i ponownie  zapiąć końcówkę.",
+            "Zestaw zawiera 2 agrafki o długości 10cm i rozmiarze 3.75 mm - 8.00mm"
+        ]
+    },
+    {
+        "name": "ITO Agrafki do nabierania oczek L",
+        "images": [
+            "ITO Agrafki do nabierania oczek L_1.webp"
+        ],
+        "price": "20,90 zł",
+        "manufacturer": "ITO",
+        "description": [
+            "Zestaw agrafek do nabierania oczek zawiera dwie agrafki o długości 16 i 20cm",
+            "Agrafki zostały wykonane dla ITO przez firmę Kinki Amibari - znanego japońskiego producenta akcesoriów dziewiarskich."
+        ]
+    },
+    {
+        "name": "ITO Agrafki do nabierania oczek S i M",
+        "images": [
+            "ITO Agrafki do nabierania oczek S i M_1.webp"
+        ],
+        "price": "17,90 zł",
+        "manufacturer": "ITO",
+        "description": [
+            "Zestaw agrafek do nabierania oczek zawiera 2 agrafki o długości 6 i 12cm"
+        ]
+    },
+    {
+        "name": "PONY Agrafki do nabierania oczek 3szt.",
+        "images": [
+            "PONY Agrafki do nabierania oczek 3szt._1.webp"
+        ],
+        "price": "18,90 zł",
+        "manufacturer": "PONY",
+        "description": [
+            "Kolorowe agrafki do nabierania oczek. Zestaw zawiera 3 szt. o wymiarach: 17cm, 11cm oraz 8cm."
+        ]
+    }
+]

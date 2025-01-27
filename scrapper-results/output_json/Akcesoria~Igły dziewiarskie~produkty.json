@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Clover igły dziewiarskie",
+        "images": [
+            "Clover igły dziewiarskie_1.webp"
+        ],
+        "price": "19,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Igły CLOVER przydadzą Ci się do zszywania Twoich projektów dziewiarskich lub szydełkowych. Mają tępe zakończenie, dzięki czemu nie ukłujesz się nimi. Plastikowe etui z nakrętką idealnie nadaje się do ich bezpiecznego przechowywania.",
+            "Igły mają duże oczko i lekko zakrzywioną końcówkę. Mają długość 7cm i szerokość 2.50mm",
+            "W skład zestawy wchodzą dwie igły i plastikowe etui."
+        ]
+    },
+    {
+        "name": "CLOVER Igły dziewiarskie Super Jumbo",
+        "images": [
+            "CLOVER Igły dziewiarskie Super Jumbo_1.webp"
+        ],
+        "price": "11,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Igły dziewiarskieCLOVER Super Jumboidealnie nadają się do nawlekania puszystych i wyjątkowo grubych włóczek. Lekko wygięte końcówki ułatwiają szycie.",
+            "Zestaw zawiera 2 igły o długości 8,7 cm i 7,7cm"
+        ]
+    },
+    {
+        "name": "ITO Igły dziewiarskie 3szt.",
+        "images": [
+            "ITO Igły dziewiarskie 3szt._1.webp"
+        ],
+        "price": "19,90 zł",
+        "manufacturer": "ITO",
+        "description": [
+            "Zestaw igieł dziewiarskich ITO zawiera 3 igły w różnych rozmiarach, dzięki czemu nadają się do każdego rodzaju przędz.",
+            "Igły wykonane zostały dla ITO przez Kinki Amibari - znanego japońskiego producenta akcesoriów dziewiarskich."
+        ]
+    },
+    {
+        "name": "KnitPro Igły dziewiarskie 3szt.",
+        "images": [
+            "KnitPro Igły dziewiarskie 3szt._1.webp"
+        ],
+        "price": "8,90 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Igły dziewiarskie KnitPro idealnie nadają się do każdego rodzaju przędz. Zawierają wykonane z żyłki oczko, które umożliwia łatwe nawlekanie włóczki. Wykonane są z aluminium. Zakończone są tępym końcem, aby zapobiec zranieniu podczas pracy z nimi."
+        ]
+    },
+    {
+        "name": "KnitPro Plastikowe igły dziewiarskie",
+        "images": [
+            "KnitPro Plastikowe igły dziewiarskie_1.webp"
+        ],
+        "price": "8,90 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Igły dziewiarskieKnitProwykonane są z plastiku. Ich lekko wygięte końcówki ułatwiają szycie.",
+            "Zestaw zawiera 4 igły: 2 zielone, 2 fioletowe."
+        ]
+    }
+]

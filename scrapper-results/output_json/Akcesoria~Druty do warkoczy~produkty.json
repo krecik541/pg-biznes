@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Seeknit druty do warkoczy",
+        "images": [
+            "Seeknit druty do warkoczy_1.webp"
+        ],
+        "price": "17,90 zł",
+        "manufacturer": null,
+        "description": [
+            "Zestaw zawiera 3 plastikowe druty do warkoczy:",
+            "1 szt.: 10cm długości i 3.00mm grubości;",
+            "1 szt.: 11cm długości i 4.00mm grubości;",
+            "1 szt.: 12cm długości i 5.00mm grubości"
+        ]
+    },
+    {
+        "name": "CLOVER Druty do warkoczy",
+        "images": [
+            "CLOVER Druty do warkoczy_1.webp"
+        ],
+        "price": "13,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "DrutyCLOVERsłużą do podtrzymywania ściegu podczas wykonywania wzoru warkocza. Wykonane są z tworzywa sztucznego.  Komplet zawiera 3 druty w pastelowych kolorach."
+        ]
+    },
+    {
+        "name": "CLOVER Druty do warkoczy U-shape",
+        "images": [
+            "CLOVER Druty do warkoczy U-shape_1.webp"
+        ],
+        "price": "13,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "DrutyCLOVERw kształcie litery U służą do podtrzymywania ściegu podczas wykonywania wzoru warkocza. Druty wykonane są z tworzywa sztucznego. Komplet zawiera 3 sztuki drutów."
+        ]
+    },
+    {
+        "name": "KnitPro Druty do warkoczy 2.50mm/4.00mm",
+        "images": [
+            "KnitPro Druty do warkoczy 2.50mm_4.00mm_1.webp"
+        ],
+        "price": "8,90 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Druty KnitPro służą do podtrzymywania ściegu podczas wykonywania wzoru  warkocza. Komplet zawiera 2 druty w rozmiarze 2.50mm oraz 4.00mm",
+            "Druty wykonane są z aluminium."
+        ]
+    },
+    {
+        "name": "KnitPro SYMFONIE Druty do warkoczy 3.25-5.50mm",
+        "images": [
+            "KnitPro SYMFONIE Druty do warkoczy 3.25-5.50mm_1.webp",
+            "KnitPro SYMFONIE Druty do warkoczy 3.25-5.50mm_2.webp"
+        ],
+        "price": "22,00 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Drewniane druty do warkoczy posiadają rowki, które zapobiegają zsuwaniu się ściegu. Gładkie i zwężające się końcówki ułatwiają zakładanie drutów oraz przytrzymywanie ściegu. Druty są wyjątkowo trwałe i mocne, a jednocześnie lekkie i łatwe w obsłudze.",
+            "Zestaw zawiera 3 szt. drutów do warkoczy w rozmiarach: 3.25mm / 4.00mm / 5.50mm"
+        ]
+    },
+    {
+        "name": "PONY Druty do warkoczy 2.25mm/4.00mm",
+        "images": [
+            "PONY Druty do warkoczy 2.25mm_4.00mm_1.webp"
+        ],
+        "price": "7,90 zł",
+        "manufacturer": null,
+        "description": [
+            "Druty PONY w kształcie litery U służą do podtrzymywania ściegu podczas wykonywania wzoru warkocza. komplet zawiera 2 druty w rozmiarze 2.25mm oraz 4.00mm",
+            "Druty wykonane są z teflonu."
+        ]
+    },
+    {
+        "name": "PONY Druty do warkoczy 2.50mm/4.00mm",
+        "images": [
+            "PONY Druty do warkoczy 2.50mm_4.00mm_1.webp",
+            "PONY Druty do warkoczy 2.50mm_4.00mm_2.webp"
+        ],
+        "price": "6,90 zł",
+        "manufacturer": null,
+        "description": [
+            "Druty PONY służą do podtrzymywania ściegu podczas wykonywania wzoru warkocza. Komplet zawiera 2 druty w rozmiarze 2.50mm oraz 4.00mm",
+            "Druty wykonane są z teflonu."
+        ]
+    },
+    {
+        "name": "PONY Druty do warkoczy 6.50mm/10.00mm",
+        "images": [
+            "PONY Druty do warkoczy 6.50mm_10.00mm_1.webp",
+            "PONY Druty do warkoczy 6.50mm_10.00mm_2.webp"
+        ],
+        "price": "9,90 zł",
+        "manufacturer": null,
+        "description": [
+            "Druty PONY w kształcie litery U służą do podtrzymywania ściegu podczas wykonywania wzoru warkocza. Komplet zawiera 2 druty w rozmiarze 6.50mm oraz 10.00mm",
+            "Druty wykonane są z plastiku."
+        ]
+    }
+]

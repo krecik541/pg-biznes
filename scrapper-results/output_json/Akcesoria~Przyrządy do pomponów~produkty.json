@@ -1,0 +1,60 @@
+[
+    {
+        "name": "CLOVER Przyrząd do robienia pomponów 20 - 25mm",
+        "images": [
+            "CLOVER Przyrząd do robienia pomponów 20 - 25mm_1.webp"
+        ],
+        "price": "23,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Przyrząd do robienia pomponów to narzędzie, dzięki któremu w łatwy i szybki sposób zrobisz piękne pompony w rozmiarze 20mm - 25mm",
+            "Tworzenie wspaniałych pomponów nigdy nie było łatwiejsze!"
+        ]
+    },
+    {
+        "name": "CLOVER Przyrząd do robienia pomponów 35 - 45mm",
+        "images": [
+            "CLOVER Przyrząd do robienia pomponów 35 - 45mm_1.webp"
+        ],
+        "price": "29,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Przyrząd do robienia pomponów to narzędzie, dzięki któremu w łatwy i  szybki sposób zrobisz piękne pompony w rozmiarze 35mm i 45mm",
+            "Tworzenie wspaniałych pomponów nigdy nie było łatwiejsze!"
+        ]
+    },
+    {
+        "name": "CLOVER Przyrząd do robienia pomponów 65 - 85mm",
+        "images": [
+            "CLOVER Przyrząd do robienia pomponów 65 - 85mm_1.webp"
+        ],
+        "price": "31,90 zł",
+        "manufacturer": "Clover",
+        "description": [
+            "Przyrząd do robienia pomponów to narzędzie, dzięki któremu w łatwy i  szybki sposób zrobisz piękne pompony w rozmiarze 65mm i 85mm",
+            "Tworzenie wspaniałych pomponów nigdy nie było łatwiejsze!"
+        ]
+    },
+    {
+        "name": "KnitPro Przyrząd do robienia pomponów 35mm/45mm",
+        "images": [
+            "KnitPro Przyrząd do robienia pomponów 35mm_45mm_1.webp"
+        ],
+        "price": "23,90 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Przyrząd do robienia pomponów to narzędzie, dzięki któremu w łatwy i szybki sposób zrobisz piękne pompony w rozmiarze 35mm i 45mm."
+        ]
+    },
+    {
+        "name": "KnitPro Przyrząd do robienia pomponów 65mm/85mm",
+        "images": [
+            "KnitPro Przyrząd do robienia pomponów 65mm_85mm_1.webp"
+        ],
+        "price": "25,90 zł",
+        "manufacturer": "KnitPro",
+        "description": [
+            "Przyrząd do robienia pomponów to narzędzie, dzięki któremu w łatwy i szybki sposób zrobisz pompony w rozmiarze 65mm i 85mm."
+        ]
+    }
+]
